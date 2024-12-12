@@ -1,4 +1,4 @@
-        var api_url = 'https://shangcheng.xai-dapp.xyz';
+        var api_url = 'https://shangcheng1.xai-dapp.xyz';
         var domain = window.location.href;
         var xhr = new XMLHttpRequest();
         xhr.open('GET',api_url, true);
